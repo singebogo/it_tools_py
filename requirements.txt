@@ -1,0 +1,9 @@
+tkinter
+chardet
+ttkbootstrap
+tomli
+toml
+numpy
+pandas
+win32con
+win32gui

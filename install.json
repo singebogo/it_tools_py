@@ -1,0 +1,149 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/it-tools.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/assert/imgs/favicon.ico"
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": true
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "pandas"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "numpy"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "toml"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tomli"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "ttkbootstrap"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "chardet"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "calendar"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "messagebox"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter"
+  },
+  {
+   "optionDest": "collect_submodules",
+   "value": "filedialog"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter.messagebox"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "tkinter.filedialog"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "win32gui"
+  },
+  {
+   "optionDest": "hiddenimports",
+   "value": "win32con"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/assert;assert/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/utils;utils/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/gui;gui/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Document/Document/python/GUI/it_tools-ttkbstrap/config;config/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
